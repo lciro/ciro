@@ -50,14 +50,14 @@ footer {
     bottom: 0;
 }
 
-/* Estilo para la imagen separadora */
+
 .separador-img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
-    position: relative; /* Establece la posición relativa para que los elementos absolutamente posicionados se ajusten a este */
-    opacity: 0.7; /* Cambia la opacidad de la imagen (0.7 es un valor de ejemplo, ajusta según sea necesario) */
+    position: relative; 
+    opacity: 0.7; 
 }
 
 .texto-superpuesto {
@@ -66,11 +66,11 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(0, 0, 0);
-    font-size: 36px; /* Aumenta el tamaño del texto a 36px */
+    font-size: 36px; 
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold; /* Aplica negrita al texto */
-    padding: 10px; /* Añade relleno de 10px alrededor del texto */
+    font-weight: bold; 
+    padding: 10px; 
     text-shadow: -1px -1px 0 #fff,  
     1px -1px 0 #fff,
    -1px 1px 0 #fff,
@@ -84,11 +84,11 @@ footer {
 }
 
 .contact-image {
-    margin-right: 20px; /* Ajusta el margen según lo necesites */
+    margin-right: 20px; 
 }
 
 .contact-image img {
-    max-width: 50px; /* Ajusta el tamaño máximo de la imagen según lo necesites */
+    max-width: 50px; 
 }
 
 .contact-text {
